@@ -7,7 +7,7 @@
 body {
   font-family: 'Space Grotesk', sans-serif;
   background: #fff;
-  padding: 60px 140px;
+  padding-block: 60px;
 }
 
 .title {
